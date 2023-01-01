@@ -1,6 +1,6 @@
 <!-- https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif -->
 
-<img  alt="coding" width="100%"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>/
+<img  alt="coding" width="100%"  src="https://cdn.dribbble.com/users/2424687/screenshots/5348661/media/a2b91fc37ceb5fc0895c0bb3d9f22e49.png?compress=1&resize=400x300"/>/
 <h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
