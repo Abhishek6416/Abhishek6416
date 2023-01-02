@@ -52,8 +52,8 @@
 
 ### Hello 👋
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Md Furkan<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Abhishekh Kumar<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
+<h4 align="center" margin="0px">A dedicated individual in Engineering who strives for excellence.Always eager to learn new skills,looking forward for challenges that can bring out the best in me.As a fresher,I am looking for job opportunities that would help me grow as a individual and help me build my career and contribute my best to the organization and society at large</h4>
 
 <h2 align="center">System.out.println("Hello World !!");</h2>
 <img src="https://lh3.googleusercontent.com/pw/AL9nZEUVD9lDKzg6-S1OIxO4wLD4IPEnbGJfHOQfCJp_v1HTtGY50_LhnyXGqJXSQ2x-IEum1HsXXK7b18FLfKchSMOzcyiXFRac8HHQ2m6JMDtcEdza0PJWsQpm6KdaTgS0KRItAKghSrubnEjyPMc1dGbl=w1012-h386-no?authuser=0" width="1000" align="centre" marginLeft="100px" alt="" />
@@ -61,7 +61,7 @@
 
  js
 import Software Developer from 'India';
-class Bio extends SoftwareDeveloper {
+class Bio extends Software Developer {
   name     = 'Abhishekh Kumar';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
   location = 'Asansol, India';
