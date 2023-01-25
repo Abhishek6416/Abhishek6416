@@ -1,28 +1,55 @@
-<!-- https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif -->
+<h1 align="left">Hi There <img width="40px" 
+src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋"/>, 
+I'm Abhishekh Kumar <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"
+alt="😎"/>
+</h1>
+<br>
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+  <br>
 
-<img  alt="coding" width="100%"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>/
-<h1 align="center">Hi 👋, I'm Abhishekh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif"/>
-
+<h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
+<h4>Software professional with expertise in MERN technology,
+HTML, CSS, JavaScript, and experienced in solving more than
+400+ Dsa problems. Looking forward to being a part of an
+organization that allows constant learning and development
+of my technical and management skills. Experienced in
+working on various projects through remote collaboration.</h4>
+</br>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek6416&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek6416" /> </p>
+<img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek6416" alt="abhishek6416" /></a> </p>
+- 💼 My Portfolio https://abhishek6416.github.io/Portfolio-ReactJS/ 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🤝 Group Project 1  [Hotstar - Clone](https://github.com/Abhishek6416/Team-Elite-Hotstar-clone)
 
-- 🔭 I’m currently working on **OYO-REACT-CLONE**
+- 🤝 Group Project 2  [MyFitnessPal - Clone](https://github.com/bewithkomalkumar/MyFitnessPal_Clone) 
 
-- 🌱 I’m currently learning **React Native**
+- 👨‍💻 Individual Project [WeatherApp - Node Js](https://github.com/Abhishek6416/WeatherAPP-Node.js)
+
+- 🤝 Group Project 3  [OYO - Clone](https://github.com/PankuMehra/OyoRooms_Replica)
+
+- 🤝 Group Project 4  [PharmEasy - Clone](https://github.com/Dheeraj-Bhandari/PharmEasy-Clone) 
+
+
+
+- 👨‍💻 I’m currently learning **MERN & Data Structures and Algorithms**
+
+- 👨‍💻 All of my projects are available at [https://abhishek6416.github.io/Portfolio-ReactJS/](https://abhishek6416.github.io/Portfolio-ReactJS/)
+
 
 - 📝 I regularly write articles on [https://abhishekh.hashnode.dev/hotstarclone](https://abhishekh.hashnode.dev/hotstarclone)
 
-- 💬 Ask me about **MERN**
 
-- 📫 How to reach me **abhishekkr6416@gmail.com**
+- 📧 Ask me about **DSA & Full Stack Development**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/15dk06uXW_MuDcCzkBiDgrzgqrUPuU-bU](https://drive.google.com/drive/u/0/folders/15dk06uXW_MuDcCzkBiDgrzgqrUPuU-bU)
+- ❓ How to reach me **abhishekkr6416@gmail.com**
+
+- ⚡ Fun fact **I think world need more developers like me. Lol**
+
+- 📄 Resume [https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing](https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,22 +59,25 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek6416&show_icons=true&locale=en&layout=compact" alt="abhishek6416" /></p>
+<p align="left" marginLeft="15px"
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" marginleft="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="express" width="40" height="40" marginleft="40"/> </a>   
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" marginleft="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" marginleft="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" marginleft="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" marginleft="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" marginleft="40"/></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" marginleft="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" marginleft="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" marginleft="40"/> </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek6416&show_icons=true&locale=en" alt="abhishek6416" /></p>
+🛠 Current Stats:
+<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=abhishek6416&show_icons=true&locale=en&theme=tokyonight" alt="abhishek6416" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek6416&" alt="abhishek6416" /></p>
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek6416&show_icons=true&locale=en&theme=tokyonight" alt="abhishek6416" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" width="90%"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek6416&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="abhishek6416" /></p>
