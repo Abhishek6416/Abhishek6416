@@ -11,7 +11,7 @@ alt="😎"/>
 
 
 <h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
-  <p align="center" ><img  style="width: 100px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
+  <p align="center" ><img  style="width: 150px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
 <h4>Software professional with expertise in MERN technology,
 HTML, CSS, JavaScript, and experienced in solving more than
 400+ Dsa problems. Looking forward to being a part of an
