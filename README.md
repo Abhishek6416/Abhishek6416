@@ -7,8 +7,11 @@ alt="😎"/>
    
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
+  
+
 
 <h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
+  <p align="center" ><img  style="width: 150px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
 <h4>Software professional with expertise in MERN technology,
 HTML, CSS, JavaScript, and experienced in solving more than
 400+ Dsa problems. Looking forward to being a part of an
@@ -44,19 +47,33 @@ working on various projects through remote collaboration.</h4>
 
 - 📧 Ask me about **DSA & Full Stack Development**
 
-- ❓ How to reach me **abhishekkr6416@gmail.com**
+<!-- - ❓ How to reach me **abhishekkr6416@gmail.com** -->
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhishekh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kumarabhishekh/)
 
 - ⚡ Fun fact **I think world need more developers like me. Lol**
 
-- 📄 Resume [https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing](https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing)
+
+- :mailbox: Resume: [![Resume Badge](https://img.shields.io/badge/-Abhishekh%20Resume-red?style=flat&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing)
+
+<!-- - 📄 Resume [https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing](https://drive.google.com/file/d/1M_rSZ_s0Fq9cP08-tCR8wcQZSpAUwwQw/view?usp=sharing) -->
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumarabhishekh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumarabhishekh/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/abhishek6416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/abhishek6416" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://abhishekh.hashnode.dev/hotstarclone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://abhishekh.hashnode.dev/hotstarclone" height="30" width="40" /></a>
-</p>
+</p> 
+
+
+<!-- <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kumarabhishekh/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="abhishekkr6416@gmail.com" href="mailto:abhishekkr6416@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://hashnode.com/@Abhishek6416" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-25D366?style=for-the-badge&logo=hashnode&logoColor=white" alt="mail-me" /></a>
+   <a href="https://codesandbox.io/u/Abhishek6416" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-25D366?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" /></a>
+ </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
