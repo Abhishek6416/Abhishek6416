@@ -14,7 +14,7 @@ alt="😎"/>
   <p align="center" ><img  style="width: 150px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p>
 <h4>Software professional with expertise in MERN technology,
 HTML, CSS, JavaScript, and experienced in solving more than
-400+ Dsa problems. Looking forward to being a part of an
+400+ DSA problems. Looking forward to being a part of an
 organization that allows constant learning and development
 of my technical and management skills. Experienced in
 working on various projects through remote collaboration.</h4>
