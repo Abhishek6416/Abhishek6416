@@ -19,6 +19,7 @@ organization that allows constant learning and development
 of my technical and management skills. Experienced in
 working on various projects through remote collaboration.</h4>
 </br>
+
 </br>
 
 
