@@ -10,7 +10,7 @@ alt="😎"/>
   
 
 
-<h3 align="left">Aspiring Full-stack Web Developer</h3>
+<h3 align="left">Full-stack Developer</h3>
   <p align="center" ><img  style="width: 150px;" src="https://skillpete.com/uploads/subject/1631954485-subject-hover-image.gif"/></p >
 <h4>Software professional with expertise in MERN technology,
 HTML, CSS, JavaScript, and experienced in solving more than
